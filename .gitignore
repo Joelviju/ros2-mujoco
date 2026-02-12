@@ -1,22 +1,9 @@
 cat <<EOF > .gitignore
-# ROS 2 / colcon
 build/
 install/
 log/
-
-# VS Code
+.mujoco/
 .vscode/
-
-# Python
 __pycache__/
 *.pyc
-
-# OS
-.DS_Store
-
-# MuJoCo runtime (never commit)
-.mujoco/
-
-# Docker
-*.tar
 EOF
