@@ -18,12 +18,14 @@ find_package(moveit_ros_planning_interface REQUIRED)
 install(
   DIRECTORY
     launch
-    config
+
   
   DESTINATION
     share/${PROJECT_NAME}
 )
-
+install(DIRECTORY config
+  DESTINATION share/${PROJECT_NAME}
+)
 # ------------------------------------------------
 # Testing (optional)
 # ------------------------------------------------

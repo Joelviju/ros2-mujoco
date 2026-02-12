@@ -1,0 +1,12 @@
+Thu Feb 12 08:43:46 2026
+WARNING: mju_openResource: unknown file 'mujoco/menagerie/universal_robots_ur10e/scene.xml'
+
+Thu Feb 12 08:44:31 2026
+WARNING: mju_openResource: unknown file 'mujoco/menagerie/universal_robots_ur10e/scene.xml'
+
+Thu Feb 12 08:47:32 2026
+WARNING: mju_openResource: unknown file 'mujoco/menagerie/universal_robots_ur10e/scene.xml'
+
+Thu Feb 12 08:49:34 2026
+WARNING: mju_openResource: unknown file '/workspaces/ros2-mujoco/mujoco/menagerie/universal_robots_ur10e/ur10e_moveit_mujoco.xml '
+
